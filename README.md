@@ -11,7 +11,7 @@ Developing monitoring methods and evaluations that mitigate the physical risks c
 - **[Stance drift in multi-turn agent conversations](https://ztgunderson.github.io/stance-drift/)** ([code](https://github.com/Ztgunderson/stance-drift)). An AI math tutor that must not give away answers, a student whose tone changes, and what a monitor can see. Continues my [Apart Research project](https://apartresearch.com/sprints/projects/examining-stance-drifting-in-multiturn-agent-interactions-mexs).
 - **[mirage-probes-steering](https://ztgunderson.github.io/mirage-probes-steering/)** ([code](https://github.com/Ztgunderson/mirage-probes-steering)). Do probes and steering vectors catch a vision-language model that answers about an image it never saw?
 - **[Sirens for Agents](https://ztgunderson.github.io/sirens_discovery/)** ([code](https://github.com/Ztgunderson/sirens_discovery)), parked. Resampling-derived, action-level honeypot discovery. Continues my [Apart Research project](https://apartresearch.com/sprints/projects/discovering-honeypots-from-resampled-behavior-in-evaluation-w9u3).
-- **[Layterms](https://layterms.org/)**. A nonpartisan walk-through museum of AI.
+- **[Layterms](https://layterms.org/)**. A nonpartisan walk-through museum of AI. Try the game: [Run the Lab!](https://labceo.layterms.org/), a three-minute game where you run an AI lab.
 
 ## CUDA
 
