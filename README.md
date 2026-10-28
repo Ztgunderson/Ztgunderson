@@ -26,9 +26,3 @@ Developing monitoring methods and evaluations that mitigate the physical risks c
 ## Other
 
 - [Unload](https://github.com/Ztgunderson/Unload). An AI-powered voice journaling app for mental health. I led the team and built the voice-based demo. It placed 2nd in the Most Innovative category at the UW Tech Exploration Lab Spring Open House, April 2025 ([article](https://techexplorationlab.wisc.edu/2025/04/27/energizing-the-future-highlights-from-the-uw-tech-exploration-lab-spring-open-house/)).
-
-## Find me
-
-- [Personal site](https://ztgunderson.github.io/), [publications](https://ztgunderson.github.io/publications/), [timeline](https://ztgunderson.github.io/full/) and [CV](https://ztgunderson.github.io/assets/Gunderson_Zachary_CV.pdf)
-- [Substack](https://zacharygunderson.substack.com/) and [LessWrong](https://www.lesswrong.com/users/zachary-gunderson)
-- [LinkedIn](https://www.linkedin.com/in/zachary-gunderson/)
