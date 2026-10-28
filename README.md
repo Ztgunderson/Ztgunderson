@@ -7,8 +7,8 @@ Developing monitoring methods and evaluations that mitigate the physical risks c
 ## Featured
 
 - **[Seen vs. Followed](https://i-spy-robot.github.io/seen-vs-followed/)** ([code](https://github.com/I-Spy-Robot/seen-vs-followed)). Do robotic foundation models act on text in the scene? Preliminary results on a DROID sorting task in Isaac Sim.
-- **[Stance drift in multi-turn agent conversations](https://ztgunderson.github.io/stance-drift/)** ([code](https://github.com/Ztgunderson/stance-drift)). An AI math tutor that must not give away answers, a student whose tone changes, and what a monitor can see. Continues my [Apart Research project](https://apartresearch.com/sprints/projects/examining-stance-drifting-in-multiturn-agent-interactions-mexs).
 - **[I Spy Agent](https://ztgunderson.github.io/I-Spy-Agent/)** ([code](https://github.com/Ztgunderson/I-Spy-Agent)). Small decision models as black-box monitors for covert agent behaviour: sabotage hidden in files (LinuxArena) and collusion through covert table talk (NARCBench-Stego). Extends my [Apart Research sprint report](https://apartresearch.com/sprints/projects/small-decision-models-as-blackbox-monitors-for-covert-agent-behaviour-lrfp).
+- **[Stance drift in multi-turn agent conversations and steering](https://ztgunderson.github.io/stance-drift/)** ([code](https://github.com/Ztgunderson/stance-drift)). An AI math tutor that must not give away answers, a student whose tone changes, and what a monitor can see. Continues my [Apart Research project](https://apartresearch.com/sprints/projects/examining-stance-drifting-in-multiturn-agent-interactions-mexs).
 
 ## AI Safety
 
