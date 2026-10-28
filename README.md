@@ -1,8 +1,6 @@
 # Zachary Gunderson
 
-Edge AI engineer working on Physical AI safety. Monitoring methods and evaluations for robots and agents.
-
-Developing monitoring methods and evaluations that mitigate the physical risks caused by robotic foundation models.
+Edge AI engineer working on AI safety. Creating monitoring methods and evaluations for robotics and agents.
 
 ## Featured
 
