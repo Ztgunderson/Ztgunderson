@@ -26,7 +26,6 @@ Developing monitoring methods and evaluations that mitigate the physical risks c
 ## Other
 
 - [Unload](https://github.com/Ztgunderson/Unload). An AI-powered voice journaling app for mental health. I led the team and built the voice-based demo. It placed 2nd in the Most Innovative category at the UW Tech Exploration Lab Spring Open House, April 2025 ([article](https://techexplorationlab.wisc.edu/2025/04/27/energizing-the-future-highlights-from-the-uw-tech-exploration-lab-spring-open-house/)).
-- [solar_car_hardware](https://github.com/Ztgunderson/solar_car_hardware) (fork). Solar car electrical hardware made in Altium Designer.
 - [Ztgunderson.github.io](https://github.com/Ztgunderson/Ztgunderson.github.io). Source of my personal site.
 
 ## Find me
